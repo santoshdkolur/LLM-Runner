@@ -34,7 +34,7 @@ ollama serve &
 1.	Please use the previous guide to set up the device upto the point where the ollama server is running on the port 11434.
 2.	You can download and store as many models as you want by just copying the model links from ollama as seen previously. Replace the word ‘run’ with ‘pull’. 
  For example: If the command you copied is “ollama run tinyllama:chat”, open your terminal and run the command “ollama pull tinyllama:chat”
-3.	Download my flutter application from the github repo: {Add link}
+3.	Download my flutter application from the github repo: [LLM Runner](https://github.com/santoshdkolur/LLM-Runner/blob/main/LLM%20Runner.apk)
 4.	Enter the ollama endpoint on opening the application, in this case it would be http://localhost:11434
 5.	On the top right corner, you should be able to see a dropdown, here we will be able to see all the downloaded models that you currently have on ollama. You can choose the model which you would like to run. Since we just have one now, select tinyllama:chat
 6.	You can type your chat at the bottom of the screen and hit send. Since the model is running locally on your mobile, the inference times will be very slow compared to say a computer. It also depends on the size of the model that you are running and the available ram in your smartphone. 
@@ -52,7 +52,7 @@ ollama serve &
 6.	Once all the changes are made, make sure your runtime is set to T4 GPU on the top right corner. 
 7.	Let’s run the cells one by one.
 8.	When you get to the last cell, you should be able to see it generate an ngrok link in the output, let us copy that. Ex: https://9f5f-35-233-183-148.ngrok-free.app (do not end the url with ‘/’)
-9.	Now, download the LLM Runner application from {Add link}
+9.	Now, download the LLM Runner application from [LLM Runner](https://github.com/santoshdkolur/LLM-Runner/blob/main/LLM%20Runner.apk)
 10.	When you open the application, it is going to ask for the Ollama endpoint url, paste the url that you copied from colab as seen above. Ex: https://9f5f-35-233-183-148.ngrok-free.app (do not end the url with ‘/’)
 11.	On the top right corner, you should be able to see a dropdown, here we will be able to see all the downloaded models that you currently have on ollama. You can choose the model which you would like to run. Since we just have one now, select tinyllama:chat
 12.	You can type your chat at the bottom of the screen and hit send. Since the model is running locally on your mobile, the inference times will be very slow compared to say a computer. It also depends on the size of the model that you are running and the available ram in your smartphone. 
