@@ -29,7 +29,8 @@ ollama serve &
 12.	Use the searchbar to search for tinyllama and select the option. Here under the Tags option, copy the code which is present across the “chat” option. 
 13.	You can paste code on your terminal to run the model yourself and test it out. 😊
 
-![Termux](https://github.com/santoshdkolur/LLM-Runner/assets/48786464/f464bd96-eb35-4ce4-9cd3-839183492336)
+<img src="https://github.com/santoshdkolur/LLM-Runner/assets/48786464/f464bd96-eb35-4ce4-9cd3-839183492336" width="216" height="480">
+
 
 
 **NOW LET US SEE HOW WE CAN USE THE BASIC FLUTTER APP TO INTERACT WITH THE MODEL**
@@ -43,7 +44,8 @@ ollama serve &
 7.	You can see your chat history saved on the application sidebar and manage the sessions. You can swipe to delete the old sessions.
 8.	You can even start a new session by clicking on the “+” icon on the top right corner. 
 
-![LLM Runner](https://github.com/santoshdkolur/LLM-Runner/assets/48786464/a2ec3e0f-9760-4e5e-945b-e982b728b216)
+<img src="https://github.com/santoshdkolur/LLM-Runner/assets/48786464/a2ec3e0f-9760-4e5e-945b-e982b728b216" width="216" height="480">
+
 
 **CONNECT TO AN OLLAMA ENDPOINT RUNNING ON COLAB**
 1.	Here is the link to the colab notebook. Please save a copy onto your drive before running it. 
@@ -62,4 +64,5 @@ ollama serve &
 13.	You can see your chat history saved on the application sidebar and manage the sessions. You can swipe to delete the old sessions.
 14.	You can even start a new session by clicking on the “+” icon on the top right corner. 
 
-![Colab](https://github.com/santoshdkolur/LLM-Runner/assets/48786464/db13c9db-45ff-463b-91a6-34f3144e0350)
+
+<img src="https://github.com/santoshdkolur/LLM-Runner/assets/48786464/db13c9db-45ff-463b-91a6-34f3144e0350" width="370" height="184">
