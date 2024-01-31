@@ -1,5 +1,9 @@
 # STEPS
 
+Video of text generation
+https://github.com/santoshdkolur/LLM-Runner/assets/48786464/cb9a881e-a9c4-4a40-9a45-b6e1e013c5f6
+
+
 Things that would be covered in this guide:
 1.	We will learn how to set-up an android device to run an LLM model locally.
 2.	We will see how we can use my basic flutter application to interact with the LLM Model.
